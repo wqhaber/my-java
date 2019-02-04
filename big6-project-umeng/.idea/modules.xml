@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app-log-common/app-log-common.iml" filepath="$PROJECT_DIR$/app-log-common/app-log-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-log-phone/app-log-phone.iml" filepath="$PROJECT_DIR$/app-log-phone/app-log-phone.iml" />
+      <module fileurl="file://D://big6-project-umeng/big6-project-umeng.iml" filepath="D://big6-project-umeng/big6-project-umeng.iml" />
+    </modules>
+  </component>
+</project>
